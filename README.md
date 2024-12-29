@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Giovanni!  
+# 👋 Hi there, I'm Jorge Velásquez!  
 
 <img align="center" src="https://github.com/Giovanni1906/Giovanni1906/raw/main/profile.jpg"/>
 
@@ -26,26 +26,9 @@ I am a **Web and Mobile Developer** with experience in **front-end** and **back-
 
 ---
 
-## 🌱 Currently Learning
-- **AWS** for scalable cloud development
-- **NestJS** to enhance backend architecture
-- **Advanced Mobile App Development** with Kotlin
-
----
-
-## 🏆 Featured Projects  
-### 🚗 [Taxi Fleet Management System](https://github.com/Giovanni1906/taxi-system)
-A mobile and web application for managing taxi fleets, including customer and driver apps. Features include real-time maps, optimized routes, and intuitive user interfaces.
-
-### ⚽ [Bentin Soccer Academy System](https://github.com/Giovanni1906/bentin-system)
-A web-based system to manage student enrollment, staff, and course offerings for a soccer academy. Includes detailed reporting for income and expenses.
-
----
-
 ## 📫 Contact Me  
 📧 **Email:** jeff-1906@outlook.com  
-💼 **LinkedIn:** [linkedin.com/in/giovanni1906](https://www.linkedin.com/in/giovanni1906)  
-💻 **Portfolio:** [giovanni1906.dev](https://giovanni1906.dev)  
+💼 **LinkedIn:** [linkedin.com/in/giovanni1906](www.linkedin.com/in/jorge-velasquez-v)  
 
 ---
 
