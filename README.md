@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jorge Velásquez!  
 
-<img align="center" src="https://github.com/Giovanni1906/Giovanni1906/raw/main/profile.jpg"/>
+<img align="center" src="https://github.com/Giovanni1906/Giovanni1906/raw/main/github-profile.jpg"/>
 
 I am a **Web and Mobile Developer** with experience in **front-end** and **back-end development**, specializing in **Node.js**, **MongoDB**, and **UI/UX Design**. I am passionate about creating innovative solutions and bringing ideas to life through technology.
 
