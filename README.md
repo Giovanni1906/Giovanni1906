@@ -29,7 +29,7 @@ I am a **Web and Mobile Developer** with experience in **front-end** and **back-
 
 ## 📫 Contact Me  
 📧 **Email:** jeff-1906@outlook.com  
-💼 **LinkedIn:** [linkedin.com/in/giovanni1906](www.linkedin.com/in/jorge-velasquez-v)  
+💼 **LinkedIn:** [linkedin.com/in/jorge-velasquez-v](www.linkedin.com/in/jorge-velasquez-v)  
 
 ---
 
