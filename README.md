@@ -25,6 +25,12 @@ I am a **Web and Mobile Developer** with experience in **front-end** and **back-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### **Artificial Intelligence & Automation**
+![LangGraph](https://img.shields.io/badge/LangGraph-%23007ACC.svg?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FBA918.svg?style=for-the-badge&logo=llama&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-%23EF6C00.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
 ---
 
 ## 📫 Contact Me  
